@@ -8,4 +8,4 @@ featuredimage: /img/products-grid1.jpg
 tags:
   - css
 ---
-<iframe width="680" height="300" src="https://www.youtube.com/embed/DyY9Wpfajqo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGlkuYsa69K_BUWavCjkZT1cbeWUiOehU1ygvzz9VQG-9OJuSIDSs1pD4/embed?start=false&loop=false&delayms=5000" frameborder="0" width="600" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
